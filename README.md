@@ -15,7 +15,7 @@ _Role: Researcher_
 
 The CitySim PH project aims to create a simulated environment for training self-driving vehicles and UAVs to navigate around urban streets in the Philippines. This project is currently on hold. 
 
-3. **Binarized-MobileNet SSD **
+3. **Binarized-MobileNet SSD**
 
 _Role: Researcher_
 
