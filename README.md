@@ -1,4 +1,6 @@
 # Henri Marcelo B. Tomas, MS EE Student
+BS ECE Graduate - MS EE Student, Majoring in AI and Computer Vision
+
 Electrical and Electronics Engineering Institute, University of the Philippines
 
 Research interests: AI, Vision, Speech, Language, and Robotics
