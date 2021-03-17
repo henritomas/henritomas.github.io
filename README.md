@@ -8,7 +8,7 @@ Research interests: AI, Vision, Speech, Language, and Robotics
 ## Major Projects
 1. **Gaze-On-Objects**
 
-_Role: Researcher and Lead Author_
+_Role: Researcher and Author_
 
 The Gaze-on-Objects (GOO) dataset consists of synthetic and real images of people looking at objects in a retail environment. The dataset is used for traning and evaluation on the task of Gaze Object Prediction: given a single image with a person and this person's head location, the object beng gazed at must be determined. 
 
