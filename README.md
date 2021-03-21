@@ -6,7 +6,7 @@ Electrical and Electronics Engineering Institute, University of the Philippines
 Research interests: AI, Vision, Speech, Language, and Robotics
 
 ## Major Projects
-1. **Gaze-On-Objects**
+### 1. **Gaze-On-Objects**
 
 _Role: Researcher and Author_
 
@@ -14,13 +14,13 @@ The Gaze-on-Objects (GOO) dataset consists of synthetic and real images of peopl
 
 ![GOO_real](./images/real2.jpg)
 
-2. **CitySim PH**
+### 2. **CitySim PH**
 
 _Role: Researcher_
 
 The CitySim PH project aims to create a simulated environment for training self-driving vehicles and UAVs to navigate around urban streets in the Philippines. This project is currently on hold. 
 
-3. **Binarized-MobileNet SSD**
+### 3. **Binarized-MobileNet SSD**
 
 _Role: Researcher_
 
