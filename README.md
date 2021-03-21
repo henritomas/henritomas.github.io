@@ -22,7 +22,7 @@ The Gaze-on-Objects (GOO) dataset consists of synthetic and real images of peopl
 
 _Role: Researcher_
 
-The CitySim PH project aims to create a simulated environment for training self-driving vehicles and UAVs to navigate around urban streets in the Philippines. This project is currently on hold. 
+The CitySim PH project aims to create a simulated environment for training self-driving vehicles and UAVs to navigate around urban streets in the Philippines. My role was to establish the groundwork for this project by building the simulator using open-source software and framework. The sample shown below is using said simulator for generating an image dataset with steering wheel angle of the car as the ground truth.
 
 ![CitySim Demo](./images/citysim-demo.gif)
 
