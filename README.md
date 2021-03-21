@@ -32,4 +32,6 @@ _Role: Researcher_
 
 An undergraduate thesis on converting lightweight object detection networks (SSD-MobileNet) into partial binary neural networks (BNNs) to achieve faster inference times on limited compute (CPU only). 
 
+![Binary SSD](./images/bin-ssd-demo.gif)
+
 ### Toy Projects
