@@ -7,6 +7,7 @@ Research interests: AI, Vision, Speech, Language, and Robotics
 
 ## Major Projects
 ### 1. **Gaze-On-Objects**
+==============================
 
 _Role: Researcher and Author_
 
