@@ -36,6 +36,8 @@ An undergraduate thesis on converting lightweight object detection networks (SSD
 
 ## Toy Projects
 
+==============================
+
 #### 4. **Nonlinear Data Augmentation for Improving Object Detection Performance**
 
 Code available: [henritomas/keras-yolo3-nlmixup](https://github.com/henritomas/keras-yolo3-nlmixup)
