@@ -34,4 +34,15 @@ An undergraduate thesis on converting lightweight object detection networks (SSD
 
 ![Binary SSD](./images/bin-ssd-demo.gif)
 
-### Toy Projects
+## Toy Projects
+
+#### 4. **Nonlinear Data Augmentation for Improving Object Detection Performance**
+
+Exploring random object nonlinear-insertion as augmentation for improving YOLOv3 precision.
+
+Code available: [henritomas/keras-yolo3-nlmixup](https://github.com/henritomas/keras-yolo3-nlmixup)
+
+#### 5. **DeepJ-Mood: A variant of the DeepJ model for mood-specific music generation**
+
+Code available: [henritomas/DeepJ](https://github.com/henritomas/DeepJ)
+
