@@ -38,11 +38,12 @@ An undergraduate thesis on converting lightweight object detection networks (SSD
 
 #### 4. **Nonlinear Data Augmentation for Improving Object Detection Performance**
 
-Exploring random object nonlinear-insertion as augmentation for improving YOLOv3 precision.
-
 Code available: [henritomas/keras-yolo3-nlmixup](https://github.com/henritomas/keras-yolo3-nlmixup)
 
 #### 5. **DeepJ-Mood: A variant of the DeepJ model for mood-specific music generation**
 
 Code available: [henritomas/DeepJ](https://github.com/henritomas/DeepJ)
 
+#### 6. **Deriving ThunderNet from Faster R-CNN written with Keras**
+
+Code available: [henritomas/thundernet-frcnn-with-keras](https://github.com/henritomas/thundernet-frcnn-with-keras)
